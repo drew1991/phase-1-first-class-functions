@@ -3,8 +3,8 @@ function receivesAFunction(spy){
     spy()
 }
 function returnsANamedFunction() {
-    const mike = (a, b) => a + b;
-   return mike;
+    const drew = (a, b) => a + b;
+   return drew;
 
 }
 
